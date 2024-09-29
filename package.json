@@ -1,0 +1,19 @@
+{
+  "name": "projeto_pucrs",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "Aeronave.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "luxon": "^3.5.0",
+    "n-readlines": "^1.0.1",
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}

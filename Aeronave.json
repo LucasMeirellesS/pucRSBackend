@@ -1,0 +1,107 @@
+[
+    {
+      "empresa": "Empresa Alfa",
+      "prefixo": "PT-ALF",
+      "v_cruzeiro": 500,  
+      "autonomia": 2000,  
+      "companhia": "Companhia Alfa"
+    },
+    {
+      "empresa": "Empresa Bravo",
+      "prefixo": "PT-BRV",
+      "v_cruzeiro": 520,  
+      "autonomia": 2200,  
+      "companhia": "Companhia Bravo"
+    },
+    {
+      "empresa": "Empresa Charlie",
+      "prefixo": "PT-CHL",
+      "v_cruzeiro": 480,  
+      "autonomia": 1800,  
+      "companhia": "Companhia Charlie"
+    },
+    {
+      "empresa": "Empresa Delta",
+      "prefixo": "PT-DLT",
+      "v_cruzeiro": 490,  
+      "autonomia": 1900,  
+      "companhia": "Companhia Delta"
+    },
+    {
+      "empresa": "Empresa Echo",
+      "prefixo": "PT-ECH",
+      "v_cruzeiro": 510,  
+      "autonomia": 2100,  
+      "companhia": "Companhia Echo"
+    },
+  {
+    "prefixo": "PT-CAR1",
+    "v_cruzeiro": 800,
+    "autonomia": 7000,
+    "companhia": "Companhia Cargo Alfa",
+    "carga": 40000
+  },
+  {
+    "prefixo": "PT-CAR2",
+    "v_cruzeiro": 750,
+    "autonomia": 6000,
+    "companhia": "Companhia Cargo Bravo",
+    "carga": 35000
+  },
+  {
+    "prefixo": "PT-CAR3",
+    "v_cruzeiro": 820,
+    "autonomia": 6500,
+    "companhia": "Companhia Cargo Charlie",
+    "carga": 45000
+  },
+  {
+    "prefixo": "PT-CAR4",
+    "v_cruzeiro": 780,
+    "autonomia": 5500,
+    "companhia": "Companhia Cargo Delta",
+    "carga": 30000
+  },
+  {
+    "prefixo": "PT-CAR5",
+    "v_cruzeiro": 770,
+    "autonomia": 7200,
+    "companhia": "Companhia Cargo Echo",
+    "carga": 50000
+  },
+  {
+    "prefixo": "PT-PAS1",
+    "v_cruzeiro": 850,
+    "autonomia": 5500,
+    "companhia": "Companhia Aérea Alfa",
+    "passageiros": 180
+  },
+  {
+    "prefixo": "PT-PAS2",
+    "v_cruzeiro": 900,
+    "autonomia": 6500,
+    "companhia": "Companhia Aérea Bravo",
+    "passageiros": 220
+  },
+  {
+    "prefixo": "PT-PAS3",
+    "v_cruzeiro": 870,
+    "autonomia": 6000,
+    "companhia": "Companhia Aérea Charlie",
+    "passageiros": 150
+  },
+  {
+    "prefixo": "PT-PAS4",
+    "v_cruzeiro": 890,
+    "autonomia": 7200,
+    "companhia": "Companhia Aérea Delta",
+    "passageiros": 200
+  },
+  {
+    "prefixo": "PT-PAS5",
+    "v_cruzeiro": 880,
+    "autonomia": 5800,
+    "companhia": "Companhia Aérea Echo",
+    "passageiros": 240
+  }
+]

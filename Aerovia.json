@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "origem": "POA",
+    "destino": "FLO",
+    "tamanho": 376
+  },
+  {
+    "id": 2,
+    "origem": "POA",
+    "destino": "GRU",
+    "tamanho": 852
+  },
+  {
+    "id": 3,
+    "origem": "GRU",
+    "destino": "POA",
+    "tamanho": 852
+  },
+  {
+    "id": 4,
+    "origem": "FLO",
+    "destino": "CWB",
+    "tamanho": 254
+  },
+  {
+    "id": 5,
+    "origem": "CWB",
+    "destino": "FLO",
+    "tamanho": 251
+  },
+  {
+    "id": 6,
+    "origem": "CWB",
+    "destino": "GRU",
+    "tamanho": 340
+  },
+  {
+    "id": 7,
+    "origem": "GRU",
+    "destino": "CWB",
+    "tamanho": 340
+  },
+  {
+    "id": 8,
+    "origem": "FLO",
+    "destino": "POA",
+    "tamanho": 376
+  },
+  {
+    "id": 9,
+    "origem": "BSB",
+    "destino": "REC",
+    "tamanho": 1650
+  },
+  {
+    "id": 10,
+    "origem": "REC",
+    "destino": "BSB",
+    "tamanho": 1650
+  },
+  {
+    "id": 11,
+    "origem": "GIG",
+    "destino": "SSA",
+    "tamanho": 1200
+  },
+  {
+    "id": 12,
+    "origem": "SSA",
+    "destino": "GIG",
+    "tamanho": 1200
+  },
+  {
+    "id": 13,
+    "origem": "FOR",
+    "destino": "MAO",
+    "tamanho": 2800
+  },
+  {
+    "id": 14,
+    "origem": "MAO",
+    "destino": "FOR",
+    "tamanho": 2800
+  },
+  {
+    "id": 15,
+    "origem": "BSB",
+    "destino": "BEL",
+    "tamanho": 1600
+  },
+  {
+    "id": 16,
+    "origem": "BEL",
+    "destino": "BSB",
+    "tamanho": 1600
+  }
+]

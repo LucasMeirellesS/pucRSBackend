@@ -1,0 +1,53 @@
+[
+    {
+      "matricula": "111225",
+      "nome": "Carlos Silva",
+      "habilitacao": true
+    },
+    {
+      "matricula": "111226",
+      "nome": "Ana Costa",
+      "habilitacao": true
+    },
+    {
+      "matricula": "111227",
+      "nome": "Pedro Santos",
+      "habilitacao": false
+    },
+    {
+      "matricula": "111228",
+      "nome": "Mariana Souza",
+      "habilitacao": true
+    },
+    {
+      "matricula": "111229",
+      "nome": "João Oliveira",
+      "habilitacao": false
+    },
+    {
+      "matricula": "111230",
+      "nome": "Fernanda Almeida",
+      "habilitacao": true
+    },
+    {
+      "matricula": "111231",
+      "nome": "Ricardo Pereira",
+      "habilitacao": false
+    },
+    {
+      "matricula": "111232",
+      "nome": "Sofia Fernandes",
+      "habilitacao": true
+    },
+    {
+      "matricula": "111233",
+      "nome": "Gustavo Rocha",
+      "habilitacao": true
+    },
+    {
+      "matricula": "111234",
+      "nome": "Camila Ribeiro",
+      "habilitacao": false
+    }
+  ]
+  
